@@ -276,7 +276,7 @@ header h1 {
   }
 }
 .hero {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Nova pasta/pexels-ella-olsson-572949-1640774.jpg");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagens/pexels-ella-olsson-572949-1640774.jpg");
   background-size: cover;
   background-position: center;
   color: white;
@@ -286,7 +286,7 @@ header h1 {
 }
 /*rodape* footer*/
 .rodape {
-  background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("nova pasta/pexels-dntphoto-975231.jpg");
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagens/pexels-julia-larson-6455775.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -295,7 +295,7 @@ header h1 {
   text-align: center;
 }
 .servicos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("nova pasta/pexels-karolina-grabowska-5714344.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("imagens/pexels-karolina-grabowska-5714344.jpg");
   background-size: cover;
   background-position: center;
   padding: 80px 20px;
